@@ -1,0 +1,25 @@
+.navbar-brand{
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    font-size: 60px;
+}
+.navbar-toggler{
+    color: white;
+}
+.container-fluid{
+    background-color: #373A3C;
+    color: white;
+}
+.imagen-1{
+    width: 400px;
+}
+.card{
+    border: none;
+    margin: 10px;
+    
+}
+.card-body{
+    text-align: center;
+}
